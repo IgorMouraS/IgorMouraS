@@ -10,8 +10,8 @@
 <br>
 <br>
 <div display="flex" align="center">
-    <img height="200px" align="left"alt="Igor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IgorMouraS&show_icons=true&theme=tokyonight">
-    <a href="https://github.com/IgorMouraS/github-readme-stats"><img height="200px" alt="Igor's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMouraS&layout=compact"></a>
+    <img height="30%" align="left"alt="Igor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IgorMouraS&show_icons=true&theme=tokyonight">
+    <a href="https://github.com/IgorMouraS/github-readme-stats"><img height="50%" alt="Igor's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMouraS&layout=compact"></a>
 </div>
 <br>
 <br>
