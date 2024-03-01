@@ -20,7 +20,7 @@
 
 ```
 - Tenho 20 anos.
-- Desenvolvedor JavaScript BackEnd.
+- Desenvolvedor.
 - Estagiário da KT Group.
 ```
 ---
