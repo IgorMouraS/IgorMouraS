@@ -19,7 +19,7 @@
 <br>
 
 ```
-- Tenho 20 anos.
+- 20 anos.
 - Desenvolvedor.
 - Estagiário da KT Group.
 ```
