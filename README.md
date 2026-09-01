@@ -19,9 +19,8 @@
 <br>
 
 ```
-- 20 anos.
+- 23 anos.
 - Desenvolvedor.
-- Estagiário da KT Group.
 ```
 ---
 
@@ -66,7 +65,7 @@
 
 # Meu Portifólio
 <div align="center">
-  <p>Sinta-se a vontade para conhecer o <a href="https://igormouras.github.io/SITE_PESSOAL/">Meu Portifólio</a> 😆</p>
+  <p>Sinta-se a vontade para conhecer o <a href="https://igormouras.github.io/SITE_PESSOAL/">Meu Portifólio</a></p>
   <img width="80%" alt="Portifolio" src="https://github.com/IgorMouraS/SITE_PESSOAL/blob/main/Site.gif?raw=true">
 </div>
 
