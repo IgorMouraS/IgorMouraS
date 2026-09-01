@@ -74,9 +74,9 @@
 
 # Curiosidades
 ```
-- UAM - Anhembi Morumbi (2020 - 2025)
+- UAM - Anhembi Morumbi (2021 - 2026)
 - Etec Guaracy Silveira - Administração (2018 - 2020)
 - Inglês avançado
-- Servi 1 ano de Exército
+- 1 ano de Exército
 - Data de nascimento: 27/06/2003
 ```
