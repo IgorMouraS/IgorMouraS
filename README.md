@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igor-moura-b06605205/)
+[![](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/igor-moura-sousa/)
 [![](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=db4a39 )](mailto:igormsousa2003@gmail.com)
 [![](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/igor_moss/)
 [![](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/11940730755)
